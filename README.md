@@ -1,8 +1,8 @@
-# OnControl - Sistema de Monitoreo IoT para Pacientes Oncológicos
+# OnControl - Sistema de Monitoreo IoT Oncológico
 
 Bienvenido al frontend de **OnControl**, una plataforma de monitoreo de signos vitales para pacientes oncológicos que utiliza dispositivos IoT.
 
-## 🚀 Empezando
+## Empezando
 
 Sigue estos pasos para tener el proyecto corriendo en tu máquina local.
 
@@ -10,7 +10,7 @@ Sigue estos pasos para tener el proyecto corriendo en tu máquina local.
 
 Asegúrate de tener instalado **Node.js** (versión 18 o superior) y **npm** (que viene con Node.js).
 
-### 🛠️ Instalación
+### Instalación
 
 1.  Clona el repositorio en tu máquina local:
 
@@ -32,7 +32,7 @@ Asegúrate de tener instalado **Node.js** (versión 18 o superior) y **npm** (qu
 
 -----
 
-## 🏃 Corriendo el Proyecto
+## Corriendo el Proyecto
 
 Una vez que las dependencias estén instaladas, puedes iniciar el servidor de desarrollo.
 
@@ -49,7 +49,7 @@ El proyecto se recargará automáticamente al hacer cambios en el código.
 
 -----
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 La arquitectura del proyecto está basada en Next.js, con la siguiente estructura de carpetas principal:
 
@@ -60,7 +60,7 @@ La arquitectura del proyecto está basada en Next.js, con la siguiente estructur
 
 -----
 
-## 🔧 Tecnologías Usadas
+## Tecnologías Usadas
 
   * **Next.js**: Framework de React para el desarrollo de la aplicación.
   * **TypeScript**: Para un desarrollo más seguro y escalable.
